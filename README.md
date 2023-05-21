@@ -17,4 +17,6 @@ Használati útmutatók:
 
 A program sikeres futtatásához szükséges telepíteni a py5 csomagot, illetve az első cellában szereplő többi csomagot importálni. A játék elindításához csak sorban le kell futtatni a cellákat, bármilyennemű inputot a vásznon kell majd bevinni.
 
+!!! FONTOS: az első cellában szerepel a %gui osx parancs. Ez a Mac-hez kell, valószínűleg más rendszerben ki kell kommentelni.
+
 Jó szórakozást! :)
